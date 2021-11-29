@@ -1,15 +1,4 @@
-"""
-Group Number : 21
 
-Roll Numbers : Names of members
-20CS60R68    : Trapti Singh
-20CS60R70    : Ram Kishor Yadav
-20CS60R71    : Rohit
-
-Project number : 1
-Project code   : CADT
-Project title : Car Insurance Approval using Decision Tree based Learning Model
-"""
 
 # Including necessary libraries
 import pandas as nap
